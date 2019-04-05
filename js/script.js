@@ -14,7 +14,43 @@ project 1 - A Random Quote Generator
   Add the `year` property to at least one object in the array.
   Use console.log() to log your array of quotes to the console.
 ***/
-
+var gameQuotes = [
+  {
+    quote: "We all make choices in life, but in the end our choices make us.",
+    author: "Andrew Ryan",
+    game: "BioShock"
+  },
+  {
+    quote: "A hero need not speak. When he is gone, the world will speak for him.",
+    author: "Master Chief",
+    game: "Halo"
+  },
+  {
+    quote: "It's time to kick ass and chew bubblegum... and I'm all outta gum.",
+    author: "Duke Nukem",
+    game: "Duke Nuke 3D"
+  },
+  {
+    quote: "Don't wish it were easier, wish you were better.",
+    author: "Chief",
+    game: "Animal Crossing"
+  },
+  {
+    quote: "Good men mean well. We just don't always end up doing well.",
+    author: "Isaac Clarke",
+    game: "Dead Space"
+  },
+  {
+    quote: "What is a man? A miserable little pile of secrets.",
+    author: "Dracula",
+    game: "Castlevania: Symphony of the Night"
+  },
+  {
+    quote: "No matter how dark the night, morning always comes, and our journey begins anew.",
+    author: "Lulu",
+    game: "Final Fantasy X"
+  }
+];
 
 
 
@@ -23,7 +59,9 @@ project 1 - A Random Quote Generator
    - Create a variable to store a random number 
    - Cse the random number to `return` a random quote object from the `quotes` array.
 ***/
-
+function getRandomQuote() {
+  var randomNumber;
+}
 
 
 
