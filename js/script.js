@@ -5,7 +5,7 @@ project 1 - A Random Quote Generator
 
 /*** 
   Array of objects that are game quotes that includes properties 
-  such as the quote, author, game, and year
+  such as the quote, author, game, year, and tags
 ***/
 
 var intervalId;
