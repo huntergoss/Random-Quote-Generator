@@ -18,37 +18,44 @@ var gameQuotes = [
   {
     quote: "We all make choices in life, but in the end our choices make us.",
     author: "Andrew Ryan",
-    game: "BioShock"
+    game: "BioShock",
+    year: "August 21, 2007"
   },
   {
     quote: "A hero need not speak. When he is gone, the world will speak for him.",
     author: "Master Chief",
-    game: "Halo"
+    game: "Halo",
+    year: "November 15, 2001"
   },
   {
     quote: "It's time to kick ass and chew bubblegum... and I'm all outta gum.",
     author: "Duke Nukem",
-    game: "Duke Nuke 3D"
+    game: "Duke Nuke 3D",
+    year: "January 29, 1996"
   },
   {
     quote: "Don't wish it were easier, wish you were better.",
     author: "Chief",
-    game: "Animal Crossing"
+    game: "Animal Crossing",
+    year: "April 14, 2001"
   },
   {
     quote: "Good men mean well. We just don't always end up doing well.",
     author: "Isaac Clarke",
-    game: "Dead Space"
+    game: "Dead Space",
+    year: "October 14, 2008"
   },
   {
     quote: "What is a man? A miserable little pile of secrets.",
     author: "Dracula",
-    game: "Castlevania: Symphony of the Night"
+    game: "Castlevania: Symphony of the Night",
+    year: "March 20, 1997"
   },
   {
     quote: "No matter how dark the night, morning always comes, and our journey begins anew.",
     author: "Lulu",
-    game: "Final Fantasy X"
+    game: "Final Fantasy X",
+    year: "July 19, 2001"
   }
 ];
 
