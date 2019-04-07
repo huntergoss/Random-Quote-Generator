@@ -3,10 +3,6 @@ Treehouse FSJS Techdegree:
 project 1 - A Random Quote Generator
 ******************************************/
 
-/*** 
-  Array of objects that are game quotes that includes properties 
-  such as the quote, author, game, year, and tags
-***/
 
 var intervalId;
 
@@ -17,6 +13,11 @@ intervalId = setInterval(printQuote, 20000);
 }
 
 startInterval();
+
+/*** 
+  Array of objects that are game quotes that includes properties 
+  such as the quote, author, game, year, and tags
+***/
 
 var quotes = [
   {
